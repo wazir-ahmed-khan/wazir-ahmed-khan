@@ -71,14 +71,49 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
-## GitHub Stats
+## 🎓 ACADEMIC FOUNDATION
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer_Science_Undergraduate-8B0000?style=for-the-badge&logo=academia&logoColor=white"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wazir-ahmed-khan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0000&title_color=CC2200&icon_color=8B0000&text_color=ff9999" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazir-ahmed-khan&layout=compact&langs_count=8&hide_border=true&bg_color=0d0000&title_color=CC2200&text_color=ff9999" />
+---
 
-<br/>
+###  Level 1 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Foundations-8B0000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Networking • Databases • Python • C Programming • Systems Software • Computer Architecture  • System Analysis & Design • Digital Thinking & Innovation • Artificial Intelligence
+</p>
+
+---
+
+###  Level 2 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Development-8B0000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Data Management • Java OOP • Data Mining • Probability And Statistical Modelling • Data Structures • System Network Administration • System Design Methods 
+</p>
+
+---
+
+###  Exposure Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced_Exposure-8B0000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+Artificial Intelligence • Cloud Computing (AWS) • Data Analytics • Mobile & Web Technologies
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 
 ## Featured Project
 
@@ -100,9 +135,9 @@
   <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=CC2200" />
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/wazirahmedkhan">
-  <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=CC2200" />
+  <img src="https://img.shields.io/badge/Linkedin-1a0000?style=for-the-badge&logo=linkedin&logoColor=CC2200" />
 </a>&nbsp;
-<a href="mailto:wazir.ahmed0888@gmail.com">
+<a href="mailto:wazir.ahmed0888@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-1a0000?style=for-the-badge&logo=gmail&logoColor=CC2200" />
 </a>
 
